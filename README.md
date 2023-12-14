@@ -1,2 +1,2 @@
 # Bootstrap-Project
-bootstarp only
+bootstrap only
